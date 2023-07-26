@@ -1,6 +1,7 @@
-### VP-land
+# VP-land
+###work in progress!!!
 
-python RPG game including:
+## RPG game including:
 - ui
 - levels
 - camera
